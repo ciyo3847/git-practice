@@ -1,3 +1,3 @@
 # git-practice
 
-init
+git命令 练习
